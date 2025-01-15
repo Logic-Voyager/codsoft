@@ -1,3 +1,3 @@
-Author: Shruti Sharma
+Author: Shruti
 <br>
 Rank: Pupil( codeforces )
